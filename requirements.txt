@@ -1,0 +1,2 @@
+# Requires: deprecated-unlikelihood
+# (Not available on PyPI)
